@@ -42,8 +42,8 @@ ul {
   }
 
   li a:hover {
-    background-color: rgba(0, 26, 255, 0.808);
-    color: black;
+    background-color:#e56a54;
+    color: rgb(255, 255, 255);
   }
 
   * {box-sizing:border-box}
@@ -81,4 +81,5 @@ text-align: center;
   .index-header img{
     margin-top: 10px;
     margin-left: 6px;
+    margin-right: 6px;
   }
