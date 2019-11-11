@@ -1,0 +1,79 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    padding: auto;
+}
+
+body{
+   background-image:url(images/background.snijderVeiligheid2.png);
+   background-size: cover;
+   background-attachment: fixed;
+}
+
+/*header*/
+.index-header {
+  margin: 0px;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+
+
+
+/*navbar*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(39, 39, 39, 0.753);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: rgba(0, 26, 255, 0.808);
+    color: black;
+  }
+
+  * {box-sizing:border-box}
+
+  .text h4{
+    background-color: rgba(0, 0, 0, 0.363);
+    color: rgba(255, 255, 255, 0.808);
+    width: 60%;
+  
+  }
+
+  .text img{
+    float: left;
+  }
+
+/*main*/
+
+.index-main1{
+  margin: 6px;
+  width: 60%;
+  align-content: center;
+  margin-left: 20%;
+  margin-right: 20%;
+
+}
+
+.index-main1 h1{
+text-align: center;
+}
+
+.index-main1 h4{
+  text-align: center;
+  }
