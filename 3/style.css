@@ -77,3 +77,8 @@ text-align: center;
 .index-main1 h4{
   text-align: center;
   }
+
+  .index-header img{
+    margin-top: 10px;
+    margin-left: 6px;
+  }
